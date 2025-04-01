@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "239867412441",
+    "project_id": "blufountain-superapp",
+    "storage_bucket": "blufountain-superapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239867412441:android:5eb10d44a274c760fea3c8",
+        "android_client_info": {
+          "package_name": "com.example.bluefountain_superapp_frontend_mobile_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239867412441-luddhtitab8hf0s255n5olo0jefhq9je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAceXebBOw-7VJGbslbz923J9jcR15pOug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239867412441-luddhtitab8hf0s255n5olo0jefhq9je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
